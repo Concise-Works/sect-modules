@@ -1,0 +1,11 @@
+int-securus: https://github.com/Concise-Works/int-securus
+    - asymptotic
+    - computers
+    - recursive eval
+int-numerus: https://github.com/Concise-Works/int-numerus
+    - asymptotic
+    - computers (outdated)
+int-algoritmi: https://github.com/Concise-Works/int-algoritmi
+    - asymptotic
+    - computers
+    - recursive eval

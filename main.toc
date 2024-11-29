@@ -1,0 +1,8 @@
+\contentsline {chapter}{Contents}{1}{section*.1}%
+\contentsline {chapter}{\chapternumberline {1}Asymptotic Notation}{3}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Asymptotic Notation}{3}{section.1.1}%
+\contentsline {section}{\numberline {1.2}Evaluating Algorithms}{7}{section.1.2}%
+\contentsline {chapter}{\chapternumberline {2}Computers and Number Based Systems}{8}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Computers \& Number Base Systems}{8}{section.2.1}%
+\contentsline {section}{\numberline {2.2}Computing Large Numbers}{11}{section.2.2}%
+\contentsline {section}{\numberline {2.3}Computational Efficiency}{18}{section.2.3}%

@@ -1,10 +1,10 @@
 # Fdb version 4
-["xdvipdfmx"] 1732851936.98794 "main.xdv" "main.pdf" "main" 1732851937.4233 0
-  "main.xdv" 1732851936 351648 2b63e652ca2fad0a6e6a3a7da5c2954b "xelatex"
+["xdvipdfmx"] 1732852413.47746 "main.xdv" "main.pdf" "main" 1732852414.45743 0
+  "main.xdv" 1732852413 496080 0593af83c9759db85317f9097402648b "xelatex"
   (generated)
   "main.pdf"
   (rewritten before read)
-["xelatex"] 1732851934.62315 "c:/Users/tuber/Documents/modules/sect-modules/main.tex" "main.xdv" "main" 1732851937.41499 0
+["xelatex"] 1732852410.88108 "c:/Users/tuber/Documents/modules/sect-modules/main.tex" "main.xdv" "main" 1732852414.44928 0
   "C:/Users/tuber/AppData/Local/MiKTeX/miktex/data/le/xetex/xelatex.fmt" 1723738631 37603628 4b89c78e8114255c8860ac2ad127ce4e ""
   "C:/Users/tuber/AppData/Local/Programs/MiKTeX/fonts/tfm/adobe/zapfding/pzdr.tfm" 1136790254 1528 7e12f4c0fcf5a072cebdcfbfc610f54c ""
   "C:/Users/tuber/AppData/Local/Programs/MiKTeX/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1233951848 1004 54797486969f23fa377b128694d548df ""
@@ -15,6 +15,9 @@
   "C:/Users/tuber/AppData/Local/Programs/MiKTeX/fonts/tfm/public/amsfonts/symbols/msbm10.tfm" 1233951854 908 2921f8a10601f252058503cc6570e581 ""
   "C:/Users/tuber/AppData/Local/Programs/MiKTeX/fonts/tfm/public/amsfonts/symbols/msbm5.tfm" 1233951854 940 75ac932a52f80982a9f8ea75d03a34cf ""
   "C:/Users/tuber/AppData/Local/Programs/MiKTeX/fonts/tfm/public/amsfonts/symbols/msbm7.tfm" 1233951854 940 228d6584342e91276bf566bcf9716b83 ""
+  "C:/Users/tuber/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmbx10.tfm" 1136765053 1328 c834bbb027764024c09d3d2bf908b5f0 ""
+  "C:/Users/tuber/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmbx5.tfm" 1136765053 1332 f817c21a1ba54560425663374f1b651a ""
+  "C:/Users/tuber/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmbx7.tfm" 1136765053 1336 3125ccb448c1a09074e3aa4a9832f130 ""
   "C:/Users/tuber/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmex10.tfm" 1136765053 992 662f679a0b3d2d53c1b94050fdaa3f50 ""
   "C:/Users/tuber/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmmi10.tfm" 1136765053 1528 abec98dbc43e172678c11b3b9031252a ""
   "C:/Users/tuber/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmmi12.tfm" 1136765053 1524 4414a8315f39513458b80dfc63bff03a ""
@@ -190,11 +193,15 @@
   "Sections/computers_and_number_based_systems/comp.tex" 1729997436 7149 152326d1fbadca5681274fd8921fdc92 ""
   "Sections/computers_and_number_based_systems/effic.tex" 1730157732 6938 00a354da10a2b0683ff298e9da076901 ""
   "Sections/computers_and_number_based_systems/large.tex" 1732723986 15467 32bbeb054443a1d56dce1486fc051b94 ""
-  "c:/Users/tuber/Documents/modules/sect-modules/main.tex" 1732851931 766 11d61ef3d8c122a77717ecd3a5ad6532 ""
-  "main.aux" 1732851936 6305 eb2a90fb7451f69593c4e69151df227b "xelatex"
-  "main.out" 1732851936 1340 e7279df0d001b9158b103c720eeb7961 "xelatex"
-  "main.tex" 1732851931 766 11d61ef3d8c122a77717ecd3a5ad6532 ""
-  "main.toc" 1732851936 650 cbe125f57fa8af2ee1c637c0c0bd9b93 "xelatex"
+  "Sections/recursive_evaluation/eval.tex" 1732852407 15991 a1ec3b1e3c25991fb22f1899ff704b6c ""
+  "Sections/recursive_evaluation/rec_form.png" 1729788154 65048 96f9cdc6f659f5bda3392128b0343801 ""
+  "c:/Users/tuber/Documents/modules/sect-modules/main.tex" 1732852322 846 9702434f5d87e9dab077c2f552a4dc9f ""
+  "main.aux" 1732852413 9597 7ced5f0a4e40d6dd751f522f3df6c348 "xelatex"
+  "main.out" 1732852413 1644 35f0ae044928853017b3a5eb94465747 "xelatex"
+  "main.tex" 1732852322 846 9702434f5d87e9dab077c2f552a4dc9f ""
+  "main.toc" 1732852413 815 f4150726a0edce745274387407945321 "xelatex"
+  "sections/recursive_evaluation/msort_proof.png" 1729818301 90877 8135d7b1cdd591c5130bef0f88d19885 ""
+  "sections/recursive_evaluation/rec_tree.png" 1729789945 135684 a368af1c52a4e453eb7e4249725dc35e ""
   (generated)
   "main.aux"
   "main.log"

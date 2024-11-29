@@ -6,3 +6,5 @@
 \contentsline {section}{\numberline {2.1}Computers \& Number Base Systems}{8}{section.2.1}%
 \contentsline {section}{\numberline {2.2}Computing Large Numbers}{11}{section.2.2}%
 \contentsline {section}{\numberline {2.3}Computational Efficiency}{18}{section.2.3}%
+\contentsline {chapter}{\chapternumberline {3}Evaluating Recurrences}{21}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Inductive Analysis}{21}{section.3.1}%
